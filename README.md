@@ -12,7 +12,10 @@
 
    ##
    
-# <a href="https://www.linkedin.com/in/carlos-alberto-junior-5a521621a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-       #  badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+# 
 # ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlos-37&show_icons=true&theme=tokyonight)
+#
+# <a href="https://www.linkedin.com/in/carlos-alberto-junior-5a521621a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-       #  badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+#
 # ![Snake animation](https://github.com/DevBatista1/DevBatista1/blob/output/github-contribution-grid-snake.svg)
 # </div>
